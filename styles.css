@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-    color: rgb(70, 69, 69);
+    color:color rgb(70, 69, 69);;
 
 }
 
@@ -30,7 +30,7 @@ h1 {
 }
 
 .portfolio-item {
-    background: white;
+    background: color rgb(70, 69, 69);;
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
